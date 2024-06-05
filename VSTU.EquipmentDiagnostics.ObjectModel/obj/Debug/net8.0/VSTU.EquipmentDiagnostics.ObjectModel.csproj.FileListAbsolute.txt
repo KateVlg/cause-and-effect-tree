@@ -1,0 +1,11 @@
+C:\!study\8_sem\VSTU.EquipmentDiagnostics.RestAPI\VSTU.EquipmentDiagnostics.ObjectModel\bin\Debug\net8.0\VSTU.EquipmentDiagnostics.ObjectModel.deps.json
+C:\!study\8_sem\VSTU.EquipmentDiagnostics.RestAPI\VSTU.EquipmentDiagnostics.ObjectModel\bin\Debug\net8.0\VSTU.EquipmentDiagnostics.ObjectModel.dll
+C:\!study\8_sem\VSTU.EquipmentDiagnostics.RestAPI\VSTU.EquipmentDiagnostics.ObjectModel\bin\Debug\net8.0\VSTU.EquipmentDiagnostics.ObjectModel.pdb
+C:\!study\8_sem\VSTU.EquipmentDiagnostics.RestAPI\VSTU.EquipmentDiagnostics.ObjectModel\obj\Debug\net8.0\VSTU.EquipmentDiagnostics.ObjectModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\!study\8_sem\VSTU.EquipmentDiagnostics.RestAPI\VSTU.EquipmentDiagnostics.ObjectModel\obj\Debug\net8.0\VSTU.EquipmentDiagnostics.ObjectModel.AssemblyInfoInputs.cache
+C:\!study\8_sem\VSTU.EquipmentDiagnostics.RestAPI\VSTU.EquipmentDiagnostics.ObjectModel\obj\Debug\net8.0\VSTU.EquipmentDiagnostics.ObjectModel.AssemblyInfo.cs
+C:\!study\8_sem\VSTU.EquipmentDiagnostics.RestAPI\VSTU.EquipmentDiagnostics.ObjectModel\obj\Debug\net8.0\VSTU.EquipmentDiagnostics.ObjectModel.csproj.CoreCompileInputs.cache
+C:\!study\8_sem\VSTU.EquipmentDiagnostics.RestAPI\VSTU.EquipmentDiagnostics.ObjectModel\obj\Debug\net8.0\VSTU.EquipmentDiagnostics.ObjectModel.dll
+C:\!study\8_sem\VSTU.EquipmentDiagnostics.RestAPI\VSTU.EquipmentDiagnostics.ObjectModel\obj\Debug\net8.0\refint\VSTU.EquipmentDiagnostics.ObjectModel.dll
+C:\!study\8_sem\VSTU.EquipmentDiagnostics.RestAPI\VSTU.EquipmentDiagnostics.ObjectModel\obj\Debug\net8.0\VSTU.EquipmentDiagnostics.ObjectModel.pdb
+C:\!study\8_sem\VSTU.EquipmentDiagnostics.RestAPI\VSTU.EquipmentDiagnostics.ObjectModel\obj\Debug\net8.0\ref\VSTU.EquipmentDiagnostics.ObjectModel.dll

@@ -1,0 +1,17 @@
+C:\!study\8_sem\VSTU.EquipmentDiagnostics.RestAPI\VSTU.EquipmentDiagnostics.Services\obj\Debug\net8.0\VSTU.EquipmentDiagnostics.Services.csproj.AssemblyReference.cache
+C:\!study\8_sem\VSTU.EquipmentDiagnostics.RestAPI\VSTU.EquipmentDiagnostics.Services\obj\Debug\net8.0\VSTU.EquipmentDiagnostics.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\!study\8_sem\VSTU.EquipmentDiagnostics.RestAPI\VSTU.EquipmentDiagnostics.Services\obj\Debug\net8.0\VSTU.EquipmentDiagnostics.Services.AssemblyInfoInputs.cache
+C:\!study\8_sem\VSTU.EquipmentDiagnostics.RestAPI\VSTU.EquipmentDiagnostics.Services\obj\Debug\net8.0\VSTU.EquipmentDiagnostics.Services.AssemblyInfo.cs
+C:\!study\8_sem\VSTU.EquipmentDiagnostics.RestAPI\VSTU.EquipmentDiagnostics.Services\obj\Debug\net8.0\VSTU.EquipmentDiagnostics.Services.csproj.CoreCompileInputs.cache
+C:\!study\8_sem\VSTU.EquipmentDiagnostics.RestAPI\VSTU.EquipmentDiagnostics.Services\bin\Debug\net8.0\VSTU.EquipmentDiagnostics.Services.deps.json
+C:\!study\8_sem\VSTU.EquipmentDiagnostics.RestAPI\VSTU.EquipmentDiagnostics.Services\bin\Debug\net8.0\VSTU.EquipmentDiagnostics.Services.dll
+C:\!study\8_sem\VSTU.EquipmentDiagnostics.RestAPI\VSTU.EquipmentDiagnostics.Services\bin\Debug\net8.0\VSTU.EquipmentDiagnostics.Services.pdb
+C:\!study\8_sem\VSTU.EquipmentDiagnostics.RestAPI\VSTU.EquipmentDiagnostics.Services\bin\Debug\net8.0\VSTU.EquipmentDiagnostics.Dal.dll
+C:\!study\8_sem\VSTU.EquipmentDiagnostics.RestAPI\VSTU.EquipmentDiagnostics.Services\bin\Debug\net8.0\VSTU.EquipmentDiagnostics.ObjectModel.dll
+C:\!study\8_sem\VSTU.EquipmentDiagnostics.RestAPI\VSTU.EquipmentDiagnostics.Services\bin\Debug\net8.0\VSTU.EquipmentDiagnostics.Dal.pdb
+C:\!study\8_sem\VSTU.EquipmentDiagnostics.RestAPI\VSTU.EquipmentDiagnostics.Services\bin\Debug\net8.0\VSTU.EquipmentDiagnostics.ObjectModel.pdb
+C:\!study\8_sem\VSTU.EquipmentDiagnostics.RestAPI\VSTU.EquipmentDiagnostics.Services\obj\Debug\net8.0\VSTU.Equ.4BC9C238.Up2Date
+C:\!study\8_sem\VSTU.EquipmentDiagnostics.RestAPI\VSTU.EquipmentDiagnostics.Services\obj\Debug\net8.0\VSTU.EquipmentDiagnostics.Services.dll
+C:\!study\8_sem\VSTU.EquipmentDiagnostics.RestAPI\VSTU.EquipmentDiagnostics.Services\obj\Debug\net8.0\refint\VSTU.EquipmentDiagnostics.Services.dll
+C:\!study\8_sem\VSTU.EquipmentDiagnostics.RestAPI\VSTU.EquipmentDiagnostics.Services\obj\Debug\net8.0\VSTU.EquipmentDiagnostics.Services.pdb
+C:\!study\8_sem\VSTU.EquipmentDiagnostics.RestAPI\VSTU.EquipmentDiagnostics.Services\obj\Debug\net8.0\ref\VSTU.EquipmentDiagnostics.Services.dll

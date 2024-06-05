@@ -1,0 +1,17 @@
+C:\!study\8_sem\VSTU.EquipmentDiagnostics.RestAPI\VSTU.EquipmentDiagnostics.Dal\obj\Debug\net8.0\VSTU.EquipmentDiagnostics.Dal.csproj.AssemblyReference.cache
+C:\!study\8_sem\VSTU.EquipmentDiagnostics.RestAPI\VSTU.EquipmentDiagnostics.Dal\obj\Debug\net8.0\VSTU.EquipmentDiagnostics.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\!study\8_sem\VSTU.EquipmentDiagnostics.RestAPI\VSTU.EquipmentDiagnostics.Dal\obj\Debug\net8.0\VSTU.EquipmentDiagnostics.Dal.AssemblyInfoInputs.cache
+C:\!study\8_sem\VSTU.EquipmentDiagnostics.RestAPI\VSTU.EquipmentDiagnostics.Dal\obj\Debug\net8.0\VSTU.EquipmentDiagnostics.Dal.AssemblyInfo.cs
+C:\!study\8_sem\VSTU.EquipmentDiagnostics.RestAPI\VSTU.EquipmentDiagnostics.Dal\obj\Debug\net8.0\VSTU.EquipmentDiagnostics.Dal.csproj.CoreCompileInputs.cache
+C:\!study\8_sem\VSTU.EquipmentDiagnostics.RestAPI\VSTU.EquipmentDiagnostics.Dal\bin\Debug\net8.0\VSTU.EquipmentDiagnostics.Dal.deps.json
+C:\!study\8_sem\VSTU.EquipmentDiagnostics.RestAPI\VSTU.EquipmentDiagnostics.Dal\bin\Debug\net8.0\VSTU.EquipmentDiagnostics.Dal.runtimeconfig.json
+C:\!study\8_sem\VSTU.EquipmentDiagnostics.RestAPI\VSTU.EquipmentDiagnostics.Dal\bin\Debug\net8.0\VSTU.EquipmentDiagnostics.Dal.dll
+C:\!study\8_sem\VSTU.EquipmentDiagnostics.RestAPI\VSTU.EquipmentDiagnostics.Dal\bin\Debug\net8.0\VSTU.EquipmentDiagnostics.Dal.pdb
+C:\!study\8_sem\VSTU.EquipmentDiagnostics.RestAPI\VSTU.EquipmentDiagnostics.Dal\bin\Debug\net8.0\VSTU.EquipmentDiagnostics.ObjectModel.dll
+C:\!study\8_sem\VSTU.EquipmentDiagnostics.RestAPI\VSTU.EquipmentDiagnostics.Dal\bin\Debug\net8.0\VSTU.EquipmentDiagnostics.ObjectModel.pdb
+C:\!study\8_sem\VSTU.EquipmentDiagnostics.RestAPI\VSTU.EquipmentDiagnostics.Dal\obj\Debug\net8.0\VSTU.Equ.6B4563C3.Up2Date
+C:\!study\8_sem\VSTU.EquipmentDiagnostics.RestAPI\VSTU.EquipmentDiagnostics.Dal\obj\Debug\net8.0\VSTU.EquipmentDiagnostics.Dal.dll
+C:\!study\8_sem\VSTU.EquipmentDiagnostics.RestAPI\VSTU.EquipmentDiagnostics.Dal\obj\Debug\net8.0\refint\VSTU.EquipmentDiagnostics.Dal.dll
+C:\!study\8_sem\VSTU.EquipmentDiagnostics.RestAPI\VSTU.EquipmentDiagnostics.Dal\obj\Debug\net8.0\VSTU.EquipmentDiagnostics.Dal.pdb
+C:\!study\8_sem\VSTU.EquipmentDiagnostics.RestAPI\VSTU.EquipmentDiagnostics.Dal\obj\Debug\net8.0\VSTU.EquipmentDiagnostics.Dal.genruntimeconfig.cache
+C:\!study\8_sem\VSTU.EquipmentDiagnostics.RestAPI\VSTU.EquipmentDiagnostics.Dal\obj\Debug\net8.0\ref\VSTU.EquipmentDiagnostics.Dal.dll
