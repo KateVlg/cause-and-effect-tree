@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zQdGXR2k7q2DuswwsTODF+6ZayzMxVoBWIPP+LnWkZw=",
+  "Source": "VSTU.EquipmentDiagnostics.RestAPI",
+  "BasePath": "_content/VSTU.EquipmentDiagnostics.RestAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

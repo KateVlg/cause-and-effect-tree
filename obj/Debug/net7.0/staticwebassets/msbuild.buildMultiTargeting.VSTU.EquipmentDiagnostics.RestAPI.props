@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\VSTU.EquipmentDiagnostics.RestAPI.props" />
+</Project>
