@@ -12,66 +12,66 @@
 
 ## Экранные формы программы:
  <div id="header" align="center">
-<img src="https://github.com/KateVlg/cause-and-effect-tree/tree/main/images_FOR_GITHUB/1.png" width="700"/>
+<img src="https://github.com/KateVlg/cause-and-effect-tree/blob/main/images_FOR_GITHUB/1.png" width="700"/>
 <p> Рисунок 1 – Главная страница модуля диагностики </p>
 </div>
 
   <div id="header" align="center">
-<img src="https://github.com/KateVlg/cause-and-effect-tree/tree/main/images_FOR_GITHUB/2.png" width="700"/>
+<img src="https://github.com/KateVlg/cause-and-effect-tree/blob/main/images_FOR_GITHUB/2.png" width="700"/>
 <p> Рисунок 2 – Создание нового оборудования </p>
 </div>
 
   <div id="header" align="center">
-<img src="https://github.com/KateVlg/cause-and-effect-tree/tree/main/images_FOR_GITHUB/3.png" width="700"/>
+<img src="https://github.com/KateVlg/cause-and-effect-tree/blob/main/images_FOR_GITHUB/3.png" width="700"/>
 <p> Рисунок 3 – Создание копии существующего оборудования </p>
 </div>
  
   <div id="header" align="center">
-<img src="https://github.com/KateVlg/cause-and-effect-tree/tree/main/images_FOR_GITHUB/4.png" width="700"/>
+<img src="https://github.com/KateVlg/cause-and-effect-tree/blob/main/images_FOR_GITHUB/4.png" width="700"/>
 <p> Рисунок 4 – Изменение существующего оборудования </p>
 </div>
 
   <div id="header" align="center">
-<img src="https://github.com/KateVlg/cause-and-effect-tree/tree/main/images_FOR_GITHUB/5.png" width="700"/>
+<img src="https://github.com/KateVlg/cause-and-effect-tree/blob/main/images_FOR_GITHUB/5.png" width="700"/>
 <p> Рисунок 5 – Ввод узла вида отказа и ручной ввод нового названия </p>
 </div>
 
   <div id="header" align="center">
-<img src="https://github.com/KateVlg/cause-and-effect-tree/tree/main/images_FOR_GITHUB/6.png" width="700"/>
+<img src="https://github.com/KateVlg/cause-and-effect-tree/blob/main/images_FOR_GITHUB/6.png" width="700"/>
 <p> Рисунок 6 – Результат ввода трех отказов на матрице инцидентности </p>
 </div>
 
   <div id="header" align="center">
-<img src="https://github.com/KateVlg/cause-and-effect-tree/tree/main/images_FOR_GITHUB/7.png" width="700"/>
+<img src="https://github.com/KateVlg/cause-and-effect-tree/blob/main/images_FOR_GITHUB/7.png" width="700"/>
 <p> Рисунок 7 – Ввод узла причины отказа и выбор из ранее используемого </p>
 </div>
 
   <div id="header" align="center">
-<img src="https://github.com/KateVlg/cause-and-effect-tree/tree/main/images_FOR_GITHUB/8.png" width="700"/>
+<img src="https://github.com/KateVlg/cause-and-effect-tree/blob/main/images_FOR_GITHUB/8.png" width="700"/>
 <p> Рисунок 8 – Результат ввода причин отказов на матрице инцидентности </p>
 </div>
 
   <div id="header" align="center">
-<img src="https://github.com/KateVlg/cause-and-effect-tree/tree/main/images_FOR_GITHUB/9.png" width="700"/>
+<img src="https://github.com/KateVlg/cause-and-effect-tree/blob/main/images_FOR_GITHUB/9.png" width="700"/>
 <p> Рисунок 9 – Ввод узла диагностического признака, поиск и выбор из ранее используемых </p>
 </div>
 
   <div id="header" align="center">
-<img src="https://github.com/KateVlg/cause-and-effect-tree/tree/main/images_FOR_GITHUB/10.png" width="700"/>
+<img src="https://github.com/KateVlg/cause-and-effect-tree/blob/main/images_FOR_GITHUB/10.png" width="700"/>
 <p> Рисунок 10 – Результат ввода диагностических признаков на матрице инцидентности </p>
 </div>
 
   <div id="header" align="center">
-<img src="https://github.com/KateVlg/cause-and-effect-tree/tree/main/images_FOR_GITHUB/11.png" width="700"/>
+<img src="https://github.com/KateVlg/cause-and-effect-tree/blob/main/images_FOR_GITHUB/11.png" width="700"/>
 <p> Рисунок 11 – Заполнение матрицы инцидентности </p>
 </div>
 
  <div id="header" align="center">
-<img src="https://github.com/KateVlg/cause-and-effect-tree/tree/main/images_FOR_GITHUB/12.png" width="700"/>
+<img src="https://github.com/KateVlg/cause-and-effect-tree/blob/main/images_FOR_GITHUB/12.png" width="700"/>
 <p> Рисунок 12 – Пример построения дерева причинно-следственных связей </p>
 </div>
   <div id="header" align="center">
-<img src="https://github.com/KateVlg/cause-and-effect-tree/tree/main/images_FOR_GITHUB/13.png" width="700"/>
+<img src="https://github.com/KateVlg/cause-and-effect-tree/blob/main/images_FOR_GITHUB/13.png" width="700"/>
 <p> Рисунок 13 – Отображение истории диагностики </p>
 </div>
 
